@@ -1,1 +1,1 @@
-# resume-project
+# resume
